@@ -3,8 +3,13 @@
 
 int main(){
 
-	char buffer;
+	char buffer[10];
+	int bytes;
+	
+	printf("Digite algo: ");
+	
+	bytes = read(0, buffer, sizeof(buffer));
+	printf("Conteudo %s", buffer);	
 
-	read(0, buffer, sizeof(buffer));
-
+	return 0;
 }
