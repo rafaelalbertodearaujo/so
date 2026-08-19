@@ -5,4 +5,4 @@
 <hr>
 <code>su - ; apt install git ; git clone https://github.com/rafaelalbertodearaujo/so</code>
 <hr>
-<p>Após executar o comando, será necessário somente digitar a senha do root e confirmar com "y" no terminal, ele vai clonar o repositório com a pasta SO e os arquivos das aulas</p>
+<p>Após executar o comando, será necessário somente digitar a senha do root e confirmar com "y" no terminal, ele vai clonar o repositório com a pasta SO e os arquivos das aulas.</p>
